@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+.carousel-item img{
+    width: 100%;
+    height: 93vh;
+}
+.nav-div{
+    position: relative;
+}
+html {
+    scroll-behavior: smooth;
+  }
